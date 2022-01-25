@@ -1,5 +1,5 @@
 # topSektirme
 
-[![image](https://www.hizliresim.com/rbc5cg8)](https://i.hizliresim.com/rbc5cg8.png)
+![resim](https://imgyukle.com/f/2022/01/26/oUnLqb.png)
 
 c# ile yapılmış top sektirme oyunu
