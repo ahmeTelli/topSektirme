@@ -1,0 +1,6 @@
+C:\Users\ahmet\Desktop\proje5_görselProgramlama.exe
+C:\Users\ahmet\Desktop\proje5_görselProgramlama.dll
+C:\Users\ahmet\Desktop\proje5_görselProgramlama.deps.json
+C:\Users\ahmet\Desktop\proje5_görselProgramlama.runtimeconfig.json
+C:\Users\ahmet\Desktop\proje5_görselProgramlama.pdb
+C:\Users\ahmet\Desktop\Newtonsoft.Json.dll
